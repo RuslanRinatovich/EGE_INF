@@ -7,4 +7,6 @@
 
 [Задание 3](LESSON3/LESSON3.MD)
 
+[Задание 4](LESSON4/LESSON4.MD)
+
 Автор: Сафиулин Р.Р.
