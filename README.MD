@@ -9,4 +9,6 @@
 
 [Задание 4](LESSON4/LESSON4.MD)
 
+[Задание 5](LESSON5/LESSON5.MD)
+
 Автор: Сафиулин Р.Р.
