@@ -17,4 +17,8 @@
 
 [Задание 8](LESSON8/LESSON8.MD)
 
+[Задание 9](LESSON9/LESSON9.MD)
+
+[Задание 11](LESSON11/LESSON11.MD)
+
 Автор: Сафиулин Р.Р.
